@@ -64,30 +64,32 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Doctor-Appointment-System
-Certainly! Here’s a description you can use for your Doctor Appointment Booking System project on GitHub:
+
+# Clinic-Doctor-Appointment-System
+
+Certainly! Here’s the updated description:
 
 ---
 
-# Doctor Appointment Booking System
+# Clinic-Doctor Appointment Booking System
 
-This project is a web-based Doctor Appointment Booking System built with Laravel, aimed at simplifying the process of booking, managing, and tracking medical appointments. It features two main modules: a **User Module** and an **Admin Module**, each providing a set of functionalities tailored to different roles.
+This project is a **Clinic-Doctor Appointment Booking System** developed with Laravel, designed to simplify the process of booking, managing, and tracking medical appointments in a clinic setting. It features two main modules: a **User Module** for patients and an **Admin Module** for clinic administrators, each providing a set of functionalities tailored to their respective needs.
 
 ## Features
 
 ### User Module
 - **Landing Page**: A welcoming page with a carousel and navigation links, providing easy access to features like booking appointments, viewing appointment details, and user login/register.
-- **User Authentication**: Secure login and registration system for users.
-- **Book Appointment**: Users can book an appointment for the current day by filling in the required details. Their name and phone number are auto-filled from their profile, making the process fast and easy.
-- **Appointment Management**: Once booked, users can view their appointment details on the main page, including confirmation status and any notes from the doctor.
-- **Payment Integration**: Integrated with Razorpay for online payments. Once a doctor confirms the appointment, users can proceed with payment. The status updates to “Paid” upon successful transaction completion.
+- **User Authentication**: Secure login and registration for patients.
+- **Book Appointment**: Users can book an appointment with the clinic doctor for the current day by completing a quick form. Their name and phone number are auto-filled from their profile, streamlining the booking process.
+- **Appointment Management**: Once an appointment is booked, users can view its details on the main page, including confirmation status and any notes from the doctor.
+- **Payment Integration**: Integrated with Razorpay for secure online payments. Users can pay once the doctor confirms the appointment, and the status updates to “Paid” upon successful payment.
 
 ### Admin Module
-- **Admin Login**: A secure login page with predefined credentials, allowing authorized personnel to access the admin dashboard.
-- **Dashboard**: The dashboard provides a quick overview of appointments, including the total appointments and today’s bookings.
-- **Appointment Management**: Admins can view all appointments with patient details like name, blood type, date, time, and health condition.
+- **Admin Login**: A secure login page with predefined credentials, allowing authorized clinic personnel to access the admin dashboard.
+- **Dashboard**: A comprehensive dashboard displays total appointments and today’s bookings.
+- **Appointment Management**: Admins can view all appointments with patient details such as name, blood type, date, time, and health condition.
 - **Confirmation and Cancellation**: Admins can confirm or cancel appointments as necessary.
-- **Doctor's Notes**: Admins have the option to add specific notes for each appointment, which the patient can view on their profile.
+- **Doctor's Notes**: Admins have the option to add specific notes for each appointment, visible to the patient in their profile.
 
 ## Technology Stack
 - **Backend**: Laravel (PHP Framework)
@@ -98,8 +100,8 @@ This project is a web-based Doctor Appointment Booking System built with Laravel
 ## Installation and Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-system.git
-   cd doctor-appointment-system
+   git clone https://github.com/your-username/clinic-doctor-appointment-system.git
+   cd clinic-doctor-appointment-system
    ```
 
 2. Install dependencies:
@@ -130,7 +132,6 @@ This project is a web-based Doctor Appointment Booking System built with Laravel
 
 ---
 
-This project is designed to simplify appointment booking in a clinical setting, providing both users and administrators with an intuitive, streamlined experience.# doctor-appointment
-# doctor-appointment
-# Doctor-Appointment-System
-# Clinic-Doctor-Appointment-System
+This Clinic-Doctor Appointment Booking System is designed to enhance the efficiency of appointment scheduling in a clinic, providing both users and administrators with a streamlined, user-friendly experience.
+
+PS: Its not compelety finished.
