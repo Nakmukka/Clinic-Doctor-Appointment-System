@@ -133,3 +133,4 @@ This project is a web-based Doctor Appointment Booking System built with Laravel
 This project is designed to simplify appointment booking in a clinical setting, providing both users and administrators with an intuitive, streamlined experience.# doctor-appointment
 # doctor-appointment
 # Doctor-Appointment-System
+# Clinic-Doctor-Appointment-System
