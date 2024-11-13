@@ -65,12 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Clinic-Doctor-Appointment-System
-
-Certainly! Here’s the updated description:
-
----
-
 # Clinic-Doctor Appointment Booking System
 
 This project is a **Clinic-Doctor Appointment Booking System** developed with Laravel, designed to simplify the process of booking, managing, and tracking medical appointments in a clinic setting. It features two main modules: a **User Module** for patients and an **Admin Module** for clinic administrators, each providing a set of functionalities tailored to their respective needs.
@@ -135,3 +129,4 @@ This project is a **Clinic-Doctor Appointment Booking System** developed with La
 This Clinic-Doctor Appointment Booking System is designed to enhance the efficiency of appointment scheduling in a clinic, providing both users and administrators with a streamlined, user-friendly experience.
 
 PS: Its not compelety finished.
+    You can download this project from the importing zip file and migrate for database.
